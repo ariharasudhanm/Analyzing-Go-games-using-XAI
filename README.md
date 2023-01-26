@@ -1,8 +1,5 @@
-### How do Professional go game players and AI plays the go game?
+### How do Professional go game players and AI plays the Go game?
 ### Any special strategies used by AlphaGo?
-
-<div id="top"></div>
-<!--
 
 
 <!-- PROJECT SHIELDS -->
@@ -16,10 +13,10 @@
 
 <div align="center">
   
-[![Contributors][contributors-shield]]()
-[![Last-commit][last commit-shield]]()
-[![license-url][license-shield]]()
-[![LinkedIn][linkedin-shield]]()
+[![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/graphs/contributors)
+[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/graphs/commit-activity)
+[![license-url][license-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
 <!-- [![Forks][forks-shield]][forks-url] If needed add it later
 [![Stargazers][stars-shield]][stars-url]  If needed add it later -->
  </p>
@@ -32,19 +29,19 @@
   <a href="https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h3 align="center">State visualization of go game </h3>
+  <h3 align="center">State visualization of Go game</h3>
 
   <p align="center">
-    
+    Comparing the Go games played between professionals and AI which is trained to play Go game.
     <br />
-    <a href="https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/edit/main"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
     ·
-    <a href="https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/issues">Report Bug</a>
+    <a href="https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/graphs/community">Request Feature</a>
+    <a href="https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/graphs/community">Request Feature</a>
   </p>
 </div>
 
