@@ -76,11 +76,7 @@ Project Overview:
 
 <!-- GETTING STARTED -->
 ## Usage
-* All the codes can be found under the `main.pynb` from data to preparation to training the model.
-* Make sure to change the paths of all the files to your requirements where-ever needed if your'e training for a new model.
-* Complete data used in this project is available in [OpenCV Pytorch Course - Classification](https://www.kaggle.com/competitions/opencv-pytorch-dl-course-classification/data).
-* Some sample images used to train can be found under `Sample_data` directory.
-* Trained model can be downloaded from [model.pth](https://drive.google.com/drive/folders/1MnlHoSVOOMgoyY1_6N8eOo2r2VeX6cg8?usp=sharing).
+
 
 
 <!-- CONTRIBUTING -->
