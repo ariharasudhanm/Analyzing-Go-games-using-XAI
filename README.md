@@ -65,7 +65,7 @@ Project Overview:
 * Visualization results.
 
 <p align="center" width="75%">
-       <img width="75%" src="https://user-images.githubusercontent.com/49080561/189544835-6bacf23c-78d2-4b55-8cd9-fcb0f942a572.png">
+       <img width="75%" src="https://user-images.githubusercontent.com/49080561/214961006-6989cae8-32d7-4008-beeb-7320f69eab1d.png">
      </p>
 
 
@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@AriharasudhanM](https://twitter.com/your_username) - ariharasudhan.muthusami@gmail.com
 
-Project Link: [Image-classification-Kaggle-Competition](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition)
+Project Link: [State Visualization using XAI](https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
