@@ -52,17 +52,15 @@ State visualization using XAI
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- We have taken the state visualization of GO game played by AI trained alogorithms and Human played games.
-The game is taken from three different sources AlphaGo archives, GoKifu, computer go datasets where each games are stored in SGF format.
-Then we used this jku-vds-lab/projection-space-explorer under which notebook called alphago_notbook.ipynb used to prepare each and every states of the game.
-The prepared datasets are consists of two different competetion type one is Human versus Human and Human versus AI algorithms each composed of several games played by AlphaGO and several professional GO players which can be found under data/Go. The dataset has totally 4132 rows and 365 columns. Rows are composed of each and every index of each game, and the state_type it belongs to whether it is start or intermediate or end, competitors (who are the players), competetion type and each and every places of the board.
-Here we tried to analyze
-How do professional players and AI start and end the games.
-How does each and every state of the game changes?
-Are there any similarities between professional players and AI moves,
-Are there any specific strategies used by the AI or professional players.
-We were expecting to see huge difference between AI and professional's moves since we know that AI is trained each and every day with new techniques, other expectations should be that AI should have some unique pattern such as highly defensive or highgly offensive against its players.
-
+- We tried to analyze the go games played between pioneers of go game AI which has been trained to play the go game using state visualization of GO game.
+- The game is taken from three different sources AlphaGo archives, GoKifu, computer go datasets where each games are stored in SGF format.
+- Then we used this [jku space explorer](https://github.com/jku-vds-lab/projection-space-explorer/tree/master/notebooks) under which notebook called `alphago_notbook.ipynb` used to prepare each and every states of the game.
+- The prepared datasets are consists of two different competetion type one is Human versus Human and Human versus AI algorithms each composed of several games played by AlphaGO and several professional GO players which can be found under data/Go. The dataset has totally 4132 rows and 365 columns. Rows are composed of each and every index of each game, and the state_type it belongs to whether it is start or intermediate or end, competitors (who are the players), competetion type and each and every places of the board.
+## Here we tried to analyze
+- How do professional players and AI start and end the games.
+- How does each and every state of the game changes?
+- Are there any similarities between professional players and AI moves,
+- Are there any specific strategies used by the AI or professional players.
 
 Project Overview:
 * State visualization of games played.
