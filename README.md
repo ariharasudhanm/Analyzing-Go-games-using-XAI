@@ -1,5 +1,5 @@
-# xai_approaches
-State visualization using XAI
+### How do Professional go game players and AI plays the go game?
+### Any special strategies used by AlphaGo?
 
 <div id="top"></div>
 <!--
@@ -32,12 +32,12 @@ State visualization using XAI
   <a href="https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h3 align="center">Image classification for Kaggle Competetion </h3>
+  <h3 align="center">State visualization of go game </h3>
 
   <p align="center">
-    Classification of Kenyan foods with transfer learning methods using Pytorch
+    
     <br />
-    <a href="https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/edit/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
