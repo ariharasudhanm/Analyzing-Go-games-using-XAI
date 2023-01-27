@@ -50,7 +50,7 @@
 ## About The Project
 
 - We tried to analyze the go games played between pioneers of go game AI which has been trained to play the go game using state visualization of GO game.
-- The game is taken from three different sources [AlphaGo archives](https://homepages.cwi.nl/~aeb/go/games/games/AlphaGo/index.html), [GoKifu](http://gokifu.com/index.php?a=1&y=2020&m=11), [computer go datasets](https://github.com/yenw/computer-go-dataset) where each games are stored in SGF format.
+- The games are taken from three different sources [AlphaGo archives](https://homepages.cwi.nl/~aeb/go/games/games/AlphaGo/index.html), [GoKifu](http://gokifu.com/index.php?a=1&y=2020&m=11), [computer go datasets](https://github.com/yenw/computer-go-dataset) where each games are stored in SGF format.
 - Then we used this [jku space explorer](https://github.com/jku-vds-lab/projection-space-explorer/tree/master/notebooks) under which notebook called `alphago_notbook.ipynb` used to prepare each and every states of the game.
 - The prepared datasets are consists of two different competetion type one is Human versus Human and Human versus AI algorithms each composed of several games played by AlphaGO and several professional GO players which can be found under data/Go. The dataset has totally 4132 rows and 365 columns. Rows are composed of each and every index of each game, and the state_type it belongs to whether it is start or intermediate or end, competitors (who are the players), competetion type and each and every places of the board.
 ## Here we tried to analyze
