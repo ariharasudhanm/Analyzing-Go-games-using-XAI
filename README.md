@@ -59,7 +59,7 @@
 ## Here we tried to analyze
 >- How do professional players and AI start and end the games.
 >- How does each and every state of the game changes?
->- Are there any similarities between professional players and AI moves,
+>- Are there any similarities between professional players and AI moves?
 >- Are there any specific strategies used by the AI or professional players.
 
 Project Overview:
