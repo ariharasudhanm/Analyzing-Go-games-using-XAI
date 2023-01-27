@@ -64,11 +64,11 @@ Project Overview:
 * Data preparation (states).
 * Visualization results.
 
-<p align="center" width="75%">
-       <img width="75%" src="https://user-images.githubusercontent.com/49080561/215096119-c31cc655-43ba-4948-ab45-a8466cbfdebf.png">
+<p align="center" width="65%">
+       <img width="65%" src="https://user-images.githubusercontent.com/49080561/215096119-c31cc655-43ba-4948-ab45-a8466cbfdebf.png">
      </p>
 
-Here ending pattern is clearly visible.
+Here reed circle shows ending pattern.
 
 We tried several projections such as PCA and TSNE. Both shown different patterns which can be observerd below.
 <p align="center" width="65">
