@@ -1,6 +1,6 @@
+
 ### How do Professional Go game players and AI plays the Go game?
 ### Any special strategies used by AlphaGo?
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -21,7 +21,10 @@
 [![Stargazers][stars-shield]][stars-url]  If needed add it later -->
  </p>
 </div>
-  
+
+
+
+
   
 <!-- PROJECT LOGO -->
 <br />
