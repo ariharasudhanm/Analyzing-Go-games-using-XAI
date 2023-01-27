@@ -13,10 +13,10 @@
 
 <div align="center">
   
-[![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/graphs/contributors)
-[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/graphs/commit-activity)
-[![license-url][license-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/blob/main/LICENSE)
+[![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/graphs/contributors)
+[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Analyzing-Go-games-using-XAI/graphs/commit-activity)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
+<!-- [![license-url][license-shield]](https://github.com/ariharasudhanm/Image_classification_Kaggle_Competition/blob/main/LICENSE) -->
 <!-- [![Forks][forks-shield]][forks-url] If needed add it later
 [![Stargazers][stars-shield]][stars-url]  If needed add it later -->
  </p>
