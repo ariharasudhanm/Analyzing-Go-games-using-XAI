@@ -65,14 +65,19 @@ Project Overview:
 * Visualization results.
 
 <p align="center" width="75%">
-       <img width="75%" src="https://user-images.githubusercontent.com/49080561/214961006-6989cae8-32d7-4008-beeb-7320f69eab1d.png">
+       <img width="75%" src="https://user-images.githubusercontent.com/49080561/215096119-c31cc655-43ba-4948-ab45-a8466cbfdebf.png">
      </p>
 
+Here ending pattern is clearly visible.
 
-
+We tried several projections such as PCA and TSNE. Both shown different patterns which can be observerd below.
+<p align="center" width="65">
+       <img width="65%" src="https://user-images.githubusercontent.com/49080561/215096607-deab9d10-cbab-4404-a85e-9482e679ad0e.png">
+     </p>
+Here we observed that humans tend to playing strategies tend to differ a lot as we could clearly see that both regimes are well separated in the above plot.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+More patterns such as starting and ending patterns well decribed in the notebook `main.ipynb`  which we highly reccomend to go through since it involves description along with graphical parts.
 
 <!-- GETTING STARTED -->
 ## Usage
