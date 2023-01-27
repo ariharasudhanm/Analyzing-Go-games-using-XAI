@@ -74,7 +74,7 @@ We tried several projections such as PCA and TSNE. Both shown different patterns
 <p align="center" width="65">
        <img width="65%" src="https://user-images.githubusercontent.com/49080561/215096607-deab9d10-cbab-4404-a85e-9482e679ad0e.png">
      </p>
-Here we observed that humans tend to playing strategies tend to differ a lot as we could clearly see that both regimes are well separated in the above plot.
+Here we observed that humans playing strategies tend to differ a lot when compared to AI as we could clearly see that both regimes are well separated in the above plot.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 More patterns such as starting and ending patterns well decribed in the notebook `main.ipynb`  which we highly reccomend to go through since it involves description along with graphical parts.
