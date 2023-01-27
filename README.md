@@ -1,4 +1,4 @@
-### How do Professional go game players and AI plays the Go game?
+### How do Professional Go game players and AI plays the Go game?
 ### Any special strategies used by AlphaGo?
 
 
