@@ -80,7 +80,7 @@ We tried several projections such as PCA and TSNE. Both shown different patterns
 Here we observed that humans playing strategies tend to differ a lot when compared to AI as we could clearly see that both regimes are well separated in the above plot.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-More patterns such as starting and ending patterns are well decribed in the 'main.html' file which we highly reccomend to go through for completeness since it involves necessary explanations along with graphical parts.
+More patterns such as starting and ending patterns are well decribed in the `main.html` file which we highly reccomend to go through for completeness since it involves necessary explanations along with graphical parts.
 
 <!-- GETTING STARTED -->
 ## Usage
